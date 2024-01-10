@@ -1,0 +1,2600 @@
+Global Healthcare Private Equity
+Report 2024
+
+This work is based on secondary market research, analysis of financial information available or provided to Bain & Company and a range of
+interviews with industry participants. Bain & Company has not independently verified any such information provided or available to Bain
+and makes no representation or warranty, express or implied, that such information is accurate or complete. Projected market and financial
+information, analyses and conclusions contained herein are based on the information described above and on Bain & Company’s judgment,
+and should not be construed as definitive forecasts or guarantees of future performance or results. The information and analysis herein does
+not constitute advice of any kind, is not intended to be used for investment purposes, and neither Bain & Company nor any of its subsidiaries
+or their respective officers, directors, shareholders, employees or agents accept any responsibility or liability with respect to the use of
+or reliance on any information or analysis contained in this document. This work is copyright Bain & Company and may not be published,
+transmitted, broadcast, copied, reproduced or reprinted in whole or in part without the explicit written permission of Bain & Company.
+
+Copyright © 2024 Bain & Company, Inc. All rights reserved.
+
+Global Healthcare Private Equity Report 2024
+
+Contents
+Healthcare Private Equity Market 2023: Year in Review and Outlook .  .  .  .  .  .  .  .  .  .  .  .  . 2
+Generative AI Will Transform Healthcare  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 12
+Healthcare IT Hits a Speed Bump  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 17
+Life Sciences: Navigating Shifts in the Innovation,
+Regulatory, and Operational Terrains .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 24
+India’s Healthcare Industry Comes of Age .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 31
+
+1
+
+Healthcare Private Equity Market
+2023: Year in Review and Outlook
+Macroeconomic challenges have exacted a toll on healthcare buyouts,
+but green shoots in deal activity reflect the industry’s strong fundamentals.
+By Nirad Jain, Kara Murphy, Dmitry Podpolny, Franz-Robert Klingan, Vikram Kapur,
+and Alex Boulton
+
+At a Glance
+Investors continue trying to unlock liquidity and raise capital for healthcare deals,
+in a challenging fund-raising environment.
+Biopharma deals represent the biggest share of healthcare buyouts, while new modalities
+and innovative therapies such as GLP-1s transform the investment landscape.
+As investors look to diversify their Asia-Pacific buyout activity, India is viewed as a place
+to deploy healthcare capital at scale.
+Private equity investors continue to pursue healthcare IT deals, with rising competition
+from tech specialists and corporate investors.
+
+The healthcare sector continued to be a hub of private equity (PE) deal activity in 2023, relative
+to all PE deals across the world, despite higher global interest rates, inflationary pressures, and
+broader geopolitical uncertainty (see Figure 1).
+
+2
+
+Global Healthcare Private Equity Report 2024
+
+Figure 1: Healthcare held its own in a tepid overall deal market
+Global buyout deal value, $ billions
+(excluding add-on deals)
+Other buyouts
+
+Healthcare buyouts
+
+Dec 2023 forecast
+
+1,012
+
+654
+
+Healthcare
+as percentage
+of total
+deal count
+
+372
+
+339
+
+430
+
+484
+
+480
+
+501
+
+444
+
+295
+
+300
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23E
+
+9
+
+10
+
+8
+
+9
+
+11
+
+13
+
+15
+
+15
+
+21
+
+20
+
+15
+
+15
+
+$222
+
+230
+
+219
+
+2010
+
+11
+
+9%
+
+8
+
+Notes: Excludes spin-offs, add-ons, loan-to-own transactions, special purpose acquisitions, and acquisitions of bankrupt assets; based on announcement date;
+includes announced deals that are completed or pending, with data subject to change; deal value does not account for deals with undisclosed values; values updated
+based on Dealogic 2020 sponsor classifications; values include net debt where relevant; 2023E annualized assuming the average ratio of January–November to
+December from 2019 to 2022, based on data through November 30, 2023
+Sources: Dealogic; AVCJ; Bain analysis
+
+Across all regions, a number of common themes emerged. To start, biopharma deals along with
+transactions involving related services, such as contract research organizations (CROs) and contract
+development and manufacturing organizations (CDMOs), made up the largest share of global deal
+value at 48% (see Figure 2). Meanwhile, in the healthcare information technology (HCIT) space,
+deals for electronic medical and health record providers underscored the importance of nextgeneration IT in healthcare. We also tracked the continued rise of glucagon-like peptide-1 agonists
+(GLP-1s), which will have implications across the sector, including supporting continued growth
+in the sterile fill finish market, where the leader, Baxter BioPharma Solutions (now Simtra), was
+acquired by Warburg Pincus and Advent International.
+
+3
+
+Global Healthcare Private Equity Report 2024
+
+Figure 2: Biopharma composed the largest share of healthcare deals
+Percentage of global healthcare buyout deal value
+(excluding add-on deals)
+100%
+80
+60
+40
+20
+0
+
+2001 02
+
+03
+
+04
+
+05
+
+06
+
+07
+
+08
+
+Provider and related services
+
+09
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+Biopharma and related services
+
+Payer and related services
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22 23E
+
+Medtech and related services
+
+Life sciences tools and related services
+
+Notes: Excludes spin-offs, add-ons, loan-to-own transactions, special purpose acquisitions, and acquisitions of bankrupt assets; based on announcement date;
+includes announced deals that are completed or pending, with data subject to change; deal value does not account for deals with undisclosed values; values updated
+based on Dealogic 2020 sponsor classifications; values include net debt where relevant; 2023E annualized assuming the average ratio of January–November to
+December from 2019 to 2022, based on data through November 30, 2023; 2010 value includes $1 billion of uncategorized deals
+Sources: Dealogic; AVCJ; Bain analysis
+
+The year saw six deals in excess of $2 billion—the largest being the taking private of Syneos Health
+by Elliott Investment Management, Patient Square Capital, and Veritas Capital—compared with
+13 in 2022 and 14 in 2021, though with some large deals in flux. There have also been around 375 deals
+below the $2 billion mark, a testament to high levels of activity at the middle and small levels.
+Within North America, announced deal values came in around $29 billion, with biopharma
+accounting for 25% of deal activity and 54% of deal value (see Figure 3). Activity in provider businesses
+(historically a large share of US deals) slowed as those businesses experienced inflationary and labor
+market pressures. Nonetheless, a number of provider deals closed across specialties such as oncology,
+orthopedics, and cardiology with the opportunity to drive ancillary expansions relatively insulated
+from broader healthcare and macroeconomic pressures. Case in point: TPG and Cencora’s (formerly
+known as AmerisourceBergen) acquisition of OneOncology from General Atlantic for $2.1 billion.
+In Europe, announced deal value fell approximately 44% year over year from $25 billion in 2022 to
+$14 billion in 2023. Excluding EQT/Luxinva’s acquisition of Dechra Pharmaceuticals, the announced
+deal value would have declined by about 70%. Constrained credit markets and continued disruption
+from labor and cost inflation dampened activity in the retail health and provider sectors. Europe also
+saw several announced processes that did not result in a transaction, as buyers and sellers failed to
+align on valuations.
+
+4
+
+Global Healthcare Private Equity Report 2024
+
+Figure 3: North America still hosts the highest value of healthcare deals
+Healthcare buyout deal value, 2018–22, $ billions
+(excluding add-on deals)
+
+Healthcare buyout deal value, 2023E, $ billions
+(excluding add-on deals)
+$29
+
+$263
+
+14
+103
+
+14
+
+79
+2
+
+1
+North America
+
+Europe
+
+Asia-Pacific
+
+Rest of world
+
+Provider and related services
+
+North America
+
+Biopharma and related services
+
+Payer and related services
+
+Europe
+
+Asia-Pacific
+
+Rest of world
+
+Medtech and related services
+
+Life sciences tools and related services
+
+Notes: Excludes spin-offs, loan-to-own transactions, special purpose acquisitions, and acquisitions of bankrupt assets; based on announcement date; includes
+announced deals that are completed or pending, with data subject to change; deal value does not account for deals with undisclosed values; values updated based
+on Dealogic 2020 sponsor classifications; values include net debt where relevant; 2023E annualized assuming the average ratio of January–November to
+December from 2019 to 2022, based on data through November 30, 2023
+Sources: Dealogic; AVCJ; Bain analysis
+
+Diversification of investments in the Asia-Pacific region
+In the Asia-Pacific region, deal activity was slightly lower than 2018–22 levels, with announced deal
+value at around $14 billion (see Figure 4). China remains very relevant for investment, while India
+represented the largest share of announced deal value. That said, investors seeking to manage
+geopolitical risk began to broaden their horizons to other Asia-Pacific countries. India, in particular,
+has seen a long-term rise in biopharma-related activity (for example, in generics and active
+pharmaceutical ingredient manufacturing), albeit with a slowdown year over year, while also
+seeing growth in domestic demand driven by an expanding middle class and government insurance
+programs (see Figure 5). These macroeconomic dynamics, coupled with a number of successful
+exits from early investors in India—such as TPG’s sale of a controlling stake in Care Hospitals to
+Blackstone—have propelled private equity sponsors to regard India as a place to deploy healthcare
+capital at scale.
+
+5
+
+Global Healthcare Private Equity Report 2024
+
+Figure 4: Deal activity has proved to be more resilient in Asia-Pacific relative to other regions
+Global healthcare buyout disclosed deal value, $ billions
+(excluding add-on deals)
+151
+
+87
+
+79
+66
+
+63
+30
+
+21
+
+$15
+11
+
+2010
+
+23
+
+16
+
+12
+
+13
+
+14
+
+North America
+
+43
+
+36
+
+30
+
+60
+
+15
+
+16
+
+Europe
+
+17
+
+Asia-Pacific
+
+18
+
+19
+
+Rest of world
+
+20
+
+21
+
+22
+
+23E
+
+Dec 2023 forecast
+
+Notes: Excludes spin-offs, add-ons, loan-to-own transactions, special purpose acquisitions, and acquisitions of bankrupt assets; based on announcement date;
+includes announced deals that are completed or pending, with data subject to change; deal value does not account for deals with undisclosed values; values updated
+based on Dealogic 2020 sponsor classifications; values include net debt where relevant; 2023E annualized assuming the average ratio of January–November to
+December from 2019 to 2022, based on data through November 30, 2023
+Sources: Dealogic; AVCJ; Bain analysis
+
+Figure 5: India has taken an increasingly important role in Asia-Pacific’s healthcare market
+Healthcare buyout deal value, $ billions
+(excluding add-on deals)
+100%
+
+$5
+
+3
+
+7
+
+16
+
+11
+
+17
+
+18
+
+Healthcare buyout deal count
+(excluding add-on deals)
+17
+
+14
+
+100%
+
+80
+
+80
+
+60
+
+60
+
+40
+
+40
+
+20
+
+20
+
+0
+
+2015
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+India
+
+0
+
+23E
+China
+
+23
+
+52
+
+61
+
+88
+
+68
+
+156
+
+179
+
+92
+
+128
+
+2015
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23E
+
+Rest of Asia
+
+Notes: Excludes spin-offs, loan-to-own transactions, special purpose acquisitions, and acquisitions of bankrupt assets; based on announcement date; includes
+announced deals that are completed or pending, with data subject to change; deal value does not account for deals with undisclosed values; values updated based
+on Dealogic 2020 sponsor classifications; values include net debt where relevant; 2023E annualized assuming the average ratio of January–November to December
+from 2019 to 2022, based on data through November 30, 2023
+Sources: Dealogic; AVCJ; Bain analysis
+
+6
+
+Global Healthcare Private Equity Report 2024
+
+Responses to liquidity challenges: value creation and secondary
+transactions
+Sponsors faced a challenging fund-raising environment in 2023, at a time when overall exit volume
+was decreasing and competition for fresh capital was increasing. In line with the overall PE markets,
+sponsor exits in healthcare declined in 2023, setting up PE funds for a conflict in 2024 between
+prolonging holding periods and the desire among limited partners for liquidity.
+Fund sponsors have been strategizing about how to offset the impact on the internal rate of return
+from longer holding periods via two mechanisms: first, by investing in incremental value-creation
+opportunities, with an emphasis on commercial excellence, pricing, and margin expansion, and
+second, by exploring alternative avenues for liquidity, both for the funds and their limited partners.
+The latter approach has triggered a rise in the exploration of secondary transactions (partial/early
+exits) including continuation vehicles.
+In 2023, many buyout funds initiated secondary-dedicated funds; notably, Blackstone raised
+$24.9 billion, $2.7 billion of which is earmarked to its inaugural GP-led continuation fund strategy.
+In addition, Ardian, Lexington Partners, and Goldman Sachs collectively fund-raised more
+than $50 billion for their secondary vehicles. Several factors make these instruments attractive:
+secondaries provide GPs an early, often partial exit opportunity, allowing them to secure liquidity
+to finance growth ambitions or return capital to investors, and boosting a fund’s distributions
+to paid-in capital.
+Continuation funds, another form of secondary transaction, buy time until the market
+appropriately prices a holding’s potential. Moreover, bid-ask spreads for secondary market
+continuation funds, where the seller is often a partial buyer, tend to be narrower than the
+bid-ask spreads in primary markets.
+PE firms have also sought to navigate the current environment by joining with other firms to tackle
+larger targets, in addition to seeking partnerships with and capital from sovereign wealth funds
+(as in the acquisition of Dechra Pharmaceuticals). PE firms are not immune to broader fund-raising
+challenges: Preqin estimates that in 2023 there has been $3.3 trillion of global private capital
+targeted by funds, but only $1 trillion raised. Large funds are capturing a greater share of allocations,
+benefiting from strong fund strategies, commercial motions, differentiated pitches, and sectorspecialized investment teams.
+
+7
+
+Global Healthcare Private Equity Report 2024
+
+Corporate M&A: Strategics’ access to lower-cost capital enabled sustained
+biopharma deal activity
+Healthcare corporate M&A value was up from 2022, bucking headwinds on biopharma from the
+Inflation Reduction Act (IRA) in the US. Pfizer announced its acquisition of Seagen for just under
+$45 billion in the largest acquisition in biopharma since Abbvie’s acquisition of Allergan for
+$63 billion in 2019. Strategics, especially large-cap biopharmas, have retained access to lower-cost
+capital, which has fueled higher levels of activity compared with buyout funds. This level of activity
+occurred despite intensified scrutiny from the Federal Trade Commission (FTC), as seen in suits
+over Amgen’s acquisition of Horizon, a deal announced in 2022 and closed recently.
+In reaction to heightened FTC scrutiny, strategics appear to be prioritizing more modest
+acquisitions that advance specific strategic goals and are less likely to arouse antitrust scrutiny—
+for example, Merck’s acquisition of Prometheus Biosciences (see Figure 6). That said, corporate
+healthcare M&A has seen 19 deals in excess of $2 billion in the first three quarters of 2023.
+
+Figure 6: The value of deals by strategic buyers edged up in 2023, as strategics’ access to financing
+allowed them to do deals large enough to move the needle
+Global healthcare and life sciences strategic deal value, $ billions
+543
+417
+
+446
+
+393
+
+315
+
+275
+$203
+
+418
+305
+
+253
+
+272
+
+274
+
+22
+
+23E
+
+198
+148
+
+2010
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+Total activity
+
+18
+
+19
+
+20
+
+21
+
+Q4 2023 forecast
+
+Notes: Q4 2023 deal value is a straight-line extrapolation using Q1–Q3 data; strategic M&A includes corporate M&A deals (which include PE exits) and add-ons,
+excludes special purpose acquisition companies/blank check companies defined by deal technique (SPAC acquisition), excludes venture capital/corporate venture
+capital defined by deal technique (funding round) or acquirer business description (venture capital), excludes other strategic PE buyers’ deals classified as strategic
+but having the acquirer’s specific industry group as defined by Dealogic: finance-acquisitions/restructurings, finance-capital pool companies, or finance-government
+sponsored entities/credit agencies
+Source: Dealogic
+
+8
+
+Global Healthcare Private Equity Report 2024
+
+Macroeconomic headwinds buffet healthcare
+Healthcare PE has outperformed other sectors across multiple market cycles and recessionary
+periods; however, the reasons for this resilience have varied from cycle to cycle. Over the past
+decade, deal returns were driven by revenue growth and multiple expansion—the latter a byproduct
+of low interest rates and abundant credit. By contrast, the current inflationary climate has taken
+a heavy toll on labor-intensive businesses, as labor shortages challenge many healthcare sectors.
+Still, we see positive momentum generated from innovation triggered by the pandemic, which has
+led to a range of new healthcare delivery models and modalities (such as remote physiologic and
+therapeutic monitoring and at-home care), and new life-sciences capabilities (such as CDMOs’
+supply expansion and Covid vaccine distribution). Segments propelled by this innovation have
+continued to power deals, while segments with a more challenging cost structure look for ways
+to improve margin profile. No two cycles are the same, but there are reasons for optimism about
+the future of healthcare investing.
+
+We see positive momentum generated from innovation
+triggered by the pandemic, which has led to a range of new
+healthcare delivery models and modalities (such as remote
+physiologic and therapeutic monitoring and at-home care),
+and new life-sciences capabilities (such as CDMOs’ supply
+expansion and Covid vaccine distribution).
+
+9
+
+Global Healthcare Private Equity Report 2024
+
+What to look for in 2024 and beyond
+Following a slow start to 2023, growth signals have reemerged in the buyout market (see Figure 7).
+In many geographies, inflation is cooling as the impact of higher interest rates take effect;
+at the same time, elevated material and labor costs are showing up as higher reimbursements
+for healthcare goods and services. In credit markets, rates are projected to remain elevated
+through 2024. As investors adjust to these realities, we expect sponsor-to-sponsor and secondary
+transactions to increase in 2024. Meanwhile, take-privates, carve-outs, and secondaries will
+continue to represent an elevated share of deal activity as investors seek to unlock value.
+
+Following a slow start to 2023, growth signals have reemerged
+in the buyout market.
+
+Figure 7: Healthcare deal value clustered in the middle of 2023
+Global healthcare buyout deal value 2023, $ billions
+(excluding add-ons)
+
+Global healthcare buyout deal count 2023
+(excluding add-ons)
+40
+
+13
+
+12
+
+30
+
+6
+
+20
+
+6
+5
+3
+
+$3
+1
+
+1
+
+February
+
+March
+
+3
+
+2
+
+10
+0
+
+January
+
+April
+
+May
+
+Provider and related services
+Payer and related services
+
+June
+
+July
+
+Biopharma and related services
+
+August
+
+September October
+
+November
+
+Medtech and related services
+
+Life sciences tools and related services
+
+Deal count
+
+Notes: Excludes spin-offs, add-ons, loan-to-own transactions, special purpose acquisitions, and acquisitions of bankrupt assets; based on announcement date;
+includes announced deals that are completed or pending, with data subject to change; deal value does not account for deals with undisclosed values; values updated
+based on Dealogic 2020 sponsor classifications; values include net debt where relevant; 2023E annualized assuming the average ratio of January–November to
+December from 2019 to 2022, based on data through November 30, 2023
+Sources: Dealogic; AVCJ; Bain analysis
+
+10
+
+Global Healthcare Private Equity Report 2024
+
+Given an improving macroeconomic backdrop, investors should consider these questions for
+2024 and beyond:
+•
+
+When will generative AI transform the healthcare sector? Current pilots of generative AI
+tools have focused on repetitive or expensive tasks such as documentation. When these tools
+move to widespread rollouts that touch on the core competencies of organizations, the effects
+will be significant and widely felt.
+
+•
+
+How will the HCIT landscape shake out? HCIT remains an important lever for healthcare and
+life sciences organizations seeking to offset macro headwinds and make better use of data and
+analytics. In this environment, both providers and biopharma companies are striking a balance
+between adopting platforms vs. best-of-breed solutions. Within HCIT, Epic continued its
+expansion in several offerings, such as its payer platform. The competition for assets is
+intensifying, with traditionally nonhealthcare investors entering the space, underscoring
+the need for strong playbooks in HCIT.
+
+•
+
+How will life sciences innovation continue to affect investing? During the past few years,
+we saw strong growth in new modalities such as mRNA and therapeutic classes such as GLP-1s.
+While the direct implications of growth are clear, there are significant downstream effects of
+increased GLP-1 agonist uptake within pharma, healthcare, and beyond.
+
+•
+
+How will India’s role in Asia-Pacific play out? Investments in and strategies focused on AsiaPacific are evolving, and India’s favorable macro tailwinds have made it a leading destination
+for capital. India has traditionally seen investments in biopharma and providers, and it is still
+too soon to know whether green shoots in other areas such as health insurance technology firms
+achieve comparable prominence, and whether these firms can parlay their success in India
+to expand across Asia-Pacific.
+
+•
+
+How can financial sponsors effectively respond to liquidity pressures from their
+investors? Sponsor-led secondary transactions, especially continuation funds, have increased
+dramatically in the past decade. However, the record amount of capital raised for secondaries
+is likely to increase competition in this space as well.
+
+Given the mountain of capital waiting on the sidelines, competition for in-market deals is expected
+to remain strong. Internal rates of return historically have been driven by revenue and multiple
+expansion, which will be more challenging to achieve. PE sponsors will need to establish higher
+confidence in value creation opportunities earlier, such that they can commit greater capital.
+It is critical for sponsors to think beyond pure commercial diligence and evaluate a wider set
+of operational, technological, and other factors such as environmental, social, and governance
+considerations early in their process to create value quickly. Only a clear fund strategy paired
+with strong investment screening, integrated diligence, focused teams, and post-acquisition
+value creation plans will set the most successful investors apart in the year ahead.
+
+11
+
+Generative AI Will Transform
+Healthcare
+A once-in-a-generation technology surges into a centuries-old industry.
+By Eric Berger, Nirad Jain, Kara Murphy, Dmitry Podpolny, Franz-Robert Klingan,
+Vikram Kapur, and Alex Boulton
+
+At a Glance
+Generative AI promises to drive significant productivity gains, improve patient
+and provider experience, and ultimately lead to better clinical outcomes.
+The technology could lower administrative costs, speed biomedical research and
+drug development, improve claims management, and help develop next-generation
+diagnostic equipment.
+Big technology companies are partnering with healthcare organizations to apply generative
+AI, and investors are deploying capital in nascent companies built around the tool.
+Investors need to consider generative AI’s disruptive potential on portfolio companies
+and new investments, and identify opportunities to take advantage of the technology.
+
+Foundation models, large language models (LLMs), and generative artificial intelligence (AI)
+captured the attention of providers, biopharmas, payers, and investors over the past year, driven
+by the promise of making healthcare delivery more efficient, innovative, and effective (see Figure 1).
+While traditional, analytical AI has been used in healthcare for many years, generative AI is
+distinguished by its ability to create new content, summarize and translate existing content,
+and, ultimately, to “reason and plan.”
+
+12
+
+Global Healthcare Private Equity Report 2024
+
+The technology has potential across many use cases, including these:
+•
+
+For providers and in care delivery, it promises to cut the time spent on documenting patient
+visits and reimbursement-related communications, which would reduce clinician burnout and
+lower administrative costs. Indeed, organizations such as HCA Healthcare are pursuing these
+opportunities via partnerships with tech companies such as Google, in part because patients
+may already be changing their behavior, using off-the-shelf tools to understand and inform
+their interactions with clinicians.
+
+•
+
+In biomedical research and drug development, generative AI is speeding innovation, as
+evidenced by the strategic alliance between Sanofi and BioMap, where Sanofi will use BioMap’s
+AI platform to optimize the process of drug discovery. Molecular biology-specific LLMs are also
+supporting predictive modeling of protein structure and target-binding affinity, in addition to
+the creation of therapeutic candidates themselves.
+
+•
+
+Insurers and other payers have long made use of AI in data analytics, claims management
+automation and adjudication, and quality and risk management. Now, they are implementing
+generative AI for member navigation, an example being UnitedHealth Group’s virtual assistant
+for patient communication.
+
+•
+
+Medtech companies, meanwhile, are focusing their investments on next-generation diagnostic
+equipment to detect diseases via AI-enabled hardware, surgical robots with AI-powered
+systems, or smart remote-monitoring devices. For example, Philips is partnering with Amazon
+Web Services to develop generative AI to advance the company’s PACS image processing and
+enhance radiology workflows, as part of its broader AI efforts in diagnosis and treatment,
+connected care, and personal health.
+
+•
+
+As foundation models, computer vision, and other areas continue to mature, all types of
+healthcare organizations will find opportunities to apply generative AI to support operations
+across the value chain (such as supply chain management and back-office activities).
+
+Ultimately, generative AI may reshape healthcare institutions’ core functional areas, presenting
+an opportunity for investors to serve changing markets and adjust operations within existing
+portfolio companies.
+
+13
+
+Global Healthcare Private Equity Report 2024
+
+Figure 1: News headlines about generative AI in healthcare surged in 2023
+Number of press releases on generative AI in healthcare
+
+Top 20 biopharmaceutical firms
+associated with generative AI
+press releases in 2023
+
+42
+
+45
+
+100%
+80
+
+ChatGPT
+becomes
+available for
+public use
+
+32
+26
+
+32
+
+60
+
+26
+
+40
+
+16
+11
+
+12
+
+Oct Nov Dec Jan Feb Mar
+2022
+2023
+
+Apr
+
+1
+
+2
+
+2
+
+2
+
+20
+
+5
+May Jun
+
+Jul
+
+No press releases
+
+Aug Sep
+
+Oct
+
+Nov
+
+Has press releases
+
+0
+
+Notes: Left-hand side represents results from a Factiva search for press releases with the keywords “Generative AI” or “Gen AI” or “Generative artificial intelligence”
+or “GenAI,” in “Healthcare/Life Sciences” as industry from Oct. 1, 2022, through Nov. 30, 2023, manually scrubbed to remove duplicates and irrelevant results;
+right-hand side reflects publicly available information from 2023 on generative AI use by the top 20 biopharmas by 2022 revenue, including company events, press
+releases, and other announcements (e.g., company blog posts)
+Sources: Factiva; desktop research; Bain analysis
+
+A nascent stage of investment
+Healthcare investment in generative AI has just begun.
+Technology companies are collaborating with major healthcare organizations to apply generative
+AI tools. For instance, Microsoft and Epic have teamed up to reduce the time clinicians spend
+documenting or replying to patient messages. Google is working with Bayer to automate drafting
+of clinical trial communications in multiple languages and is partnering with iCad to integrate
+AI tools in the company’s devices to detect breast cancer. IBM is working with Microsoft Azure
+to analyze complex medical records. Ultimately, healthcare information technology vendors are
+at the forefront of using generative AI, marrying the technology with their extensive networks
+of providers and users.
+Among investors, venture capital and growth equity funds have been deploying capital in
+companies built around generative AI as a core competency. For example, Hippocratic AI,
+a healthcare-focused LLM company, raised $50 million in a seed round co-led by General Catalyst
+and Andreessen Horowitz. Genesis Therapeutics, a drug discovery platform that uses generative
+AI to pinpoint novel drug candidates, closed a $200 million series B round, with participation
+from Andreessen Horowitz, Fidelity, and BlackRock.
+
+14
+
+Global Healthcare Private Equity Report 2024
+
+Mature private equity (PE)-backed companies are also investing in LLMs to drive operational
+improvement in various areas including better clinician or patient engagement and lower cost
+structures. For example, Syneos Health, taken private by Elliott, Patient Square, and Veritas, entered
+into a multiyear deal with Microsoft to leverage OpenAI’s ChatGPT in clinical trials and commercial
+programs. Similarly, Advent-backed Iodine Software has partnered with OpenAI to infuse LLMs into
+its AwareCDI product suite to improve the software’s accuracy and efficiency.
+
+The effects on portfolio companies and new investments
+To get ahead of this rapidly evolving technology, PE investors must carefully consider the impact
+of generative AI on their portfolio companies. Primarily, they need to assess the exposure of their
+portfolio companies’ markets to generative AI disruption, paying attention to both the magnitude
+and timing of any potential threats or opportunities. Bain has developed a framework to gauge
+disruption risk, which assesses labor intensity, level of knowledge required to perform tasks, the
+type and frequency of interactions with humans, and the value of augmented pattern recognition,
+among other variables.
+Businesses where the following are core elements of the value proposition face greater risk: creative
+content generation, labor-intensive administrative processes and call center work, and text-writing
+and summarization. For example, business process outsourcers that employ low-skilled labor
+to generate communication for medical claims and denials may be places where generative AI
+can automate or accelerate the processes. On the other hand, in healthcare businesses that rely
+on expert guidance, such as physicians providing clinical recommendations, the technology poses
+less of a risk for disruption, but instead may be viewed as an opportunity to democratize access
+and improve quality.
+In deploying generative AI at portfolio companies, investors should develop a focused strategy
+with three key elements:
+•
+
+identifying opportunities to leverage commercially available generative AI tools;
+
+•
+
+consider building proprietary generative AI software where there is an opportunity to establish
+competitive differentiation; and
+
+•
+
+defining generative AI governance and guardrails to ensure its proper use, such as update
+policies and data security.
+
+Similarly, investors should consider the implications of generative AI for new investments’ deal
+theses, determining the disruption risk of generative AI and the potential for generative AI to unlock
+value, as part of due diligence and value-creation planning.
+
+15
+
+Global Healthcare Private Equity Report 2024
+
+The long-term potential of generative AI
+Given the complexity and uniqueness of patient situations, much of the work in healthcare
+requires human labor and judgment. Even areas where less discretion is needed, such as coding,
+charting, and registry extracts, have seen limited impact from AI models due to relatively small
+data sets available to train the algorithms. Generative AI promises to address some of these
+challenges, and experiments will likely proliferate in the year ahead. These efforts and early
+use cases have the potential to trigger strong labor efficiency gains—addressing the financial
+pressures on organizations, improving the patient and provider experience, and leading to better
+clinical outcomes.
+We expect progress over the next year to come in select and focused use cases. Over a longer time
+frame, the breadth and depth of generative AI’s impact on healthcare may well be transformative
+across workflows, applications, and ways of working. Investors who are thoughtful about generative
+AI’s impact on their existing portfolio companies and new investments will be able to harness this
+technological change to generate returns and accelerate the transformation of the healthcare sector.
+
+Over a longer time frame, the breadth and depth of generative
+AI’s impact on healthcare may well be transformative across
+workflows, applications, and ways of working.
+
+16
+
+Healthcare IT Hits a Speed Bump
+Despite the slowdown in dealmaking in 2023, healthcare IT retains its appeal
+to private equity investors.
+By Caitlin Dowling, Nirad Jain, Kara Murphy, Dmitry Podpolny, Franz-Robert Klingan,
+Vikram Kapur, and Alex Boulton
+
+At a Glance
+Despite a drop in deal volume in 2023, healthcare IT attracts investment due to its ability
+to drive innovation and offset macro factors such as inflation, labor shortages, and
+reimbursement headwinds.
+Providers use IT to focus on revenue cycle management, clinical workflow optimization,
+and patient engagement; biopharma on clinical trial digitalization, analytics, and real-world
+evidence; and payers on member engagement and value-based care.
+Increasingly, organizations must balance software integration, vendor management
+optimization, tech stack simplification, and interoperability with best-of-breed solutions.
+Artificial intelligence and the move toward platforms are transforming the healthcare
+IT landscape.
+
+Healthcare information technology (HCIT) sits at the intersection between the steady resilience
+of the healthcare sector to recession and the high returns of the software and broader IT sector.
+The result: an attractive upside potential with lower downside risk (see Figure 1).
+
+17
+
+Global Healthcare Private Equity Report 2024
+
+Figure 1: Healthcare IT delivered strong upside returns from 2011 to 2019
+Multiple on invested capital for global buyout and growth deals
+Deal entry years 2016–19
+
+Deal entry years 2011–15
+
+Top quartile
+1.8X
+
+2.1X
+
+2.2X
+
+2.1X
+
+Median
+
+1.6X
+
+1.6X
+
+Bottom quartile
+
+All other industries
+
+Healthcare
+
+HCIT
+
+All other industries
+
+Healthcare
+
+HCIT
+
+Deal volume
+
+5,151
+
+704
+
+127
+
+1,824
+
+312
+
+80
+
+Invested equity
+capital, $ billions
+
+522.6
+
+66.2
+
+8.0
+
+238.2
+
+29.9
+
+12.4
+
+Notes: Deal universe includes only fully and partially realized buyout and growth deals with initial investments in 2011-2015, 2016-2019 globally; all deal sizes.
+Multiple on invested capital is the ratio of total distributed capital and remaining unrealized value to total investment cost; pooled MOIC is derived by computing
+the sum of all investments in a given data set and then calculating the MOIC based on the aggregation of cash flows associated to that set of investments
+(similar to a weighted average, weighted by deal size)
+Source: DealEdge.com (data pulled October 2023); use of DealEdge data outside this context requires permission of Bain & Company
+
+In 2023, HCIT buyout activity slowed, with deal volume falling by a projected 23% from 2022,
+driven mainly by a falloff in provider HCIT transactions (see Figure 2). Excitement around
+digitalization, following the outbreak of Covid-19, resulted in a slew of portfolio companies
+that are still early in their holding periods. Despite the decline in transactions, HCIT represents
+10% of healthcare sector deal volume and has seen some sizable deals, including EngageSmart,
+Nextech, NextGen, and CorEvitas.
+Macroeconomic factors including inflation, labor shortages, and reimbursement headwinds
+continue to push healthcare operators toward greater automation to raise labor productivity,
+resulting in investments around workforce management, revenue cycle management (RCM)
+solutions, drug development workflows, and payer-workflow support. This impetus comes
+at a time of emerging generative artificial intelligence (AI) models that could unlock process
+efficiencies and outcome improvements for the industry.
+
+18
+
+Global Healthcare Private Equity Report 2024
+
+Figure 2: Healthcare IT deal volume has declined dramatically since its 2021 high
+Global healthcare IT buyout deal volume
+(exluding add-on deals)
+75
+
+Dec 2023 forecast
+Life sciences tools
+and related services
+
+49
+
+49
+
+39
+
+33
+22
+
+24
+
+24
+
+Payer and
+related services
+
+51
+
+48
+
+Biopharma and
+related services
+
+24
+
+Provider and
+related services
+
+9
+2012
+Annual
+change
+
+Medtech and
+related services
+
+13
+
+14
+
+▲144% ▲9%
+
+15
+
+16
+
+▲0%
+
+▲0%
+
+17
+
+18
+
+▲38% ▲48%
+
+19
+
+20
+
+▲0%
+
+▼2%
+
+21
+
+22
+
+23E
+
+36 buyout deals as of
+November 30, 2023
+
+▲56% ▼32% ▼23%
+
+Notes: Excludes spin-offs, add-ons, loan-to-own transactions, special purpose acquisitions, and acquisitions of bankrupt assets; based on announcement date;
+includes announced deals that are completed or pending, with data subject to change; deal value does not account for deals with undisclosed values; values updated
+based on Dealogic 2020 sponsor classifications; values include net debt where relevant; 2023E annualized assuming the average ratio of January–November to
+December from 2019 to 2022, based on data through November 30, 2023
+Sources: Dealogic; AVCJ; Bain analysis
+
+Providers still seeking HCIT to improve their business
+Recent Bain-KLAS analysis highlights that IT has become critical to providers as they navigate
+challenges, accelerating investment in some pockets of the market. RCM, clinical workflow
+optimization, and patient engagement are top priorities for new investments given that they
+all deliver measurable return on investment (ROI) (see Figure 3).
+
+Macroeconomic factors including inflation, labor shortages,
+and reimbursement headwinds continue to push healthcare
+operators toward greater automation to raise labor productivity.
+
+19
+
+Global Healthcare Private Equity Report 2024
+
+Figure 3: Providers’ priorities involve improving their return on investment
+Percentage of respondents citing IT as an area of priority
+Health
+systems
+and hospitals
+
+29
+
+Telehealth and virtual care
+
+28
+
+Electronic health records
+
+28
+
+IT infrastructure and services
+
+26
+
+Clinical tools and department
+solutions
+
+25
+
+Patient access
+Governance, risk, security,
+and compliance
+
+18
+
+27
+
+16
+
+30
+
+16
+
+30
+
+31
+
+24
+
+26
+
+24
+
+22
+23
+
+15
+
+Top priority
+
+Second priority
+
+12
+21
+
+16
+
+17
+
+38
+16
+
+42
+
+28
+
+26
+
+25
+
+27
+
+44
+
+28
+
+24
+
+36
+30
+
+52
+
+26
+
+20
+
+Physician
+group
+
+48
+
+32
+
+38
+
+24
+20
+
+Freestanding
+hospital
+
+31
+
+31
+
+34
+
+Patient engagement
+
+Other national
+or regional
+health system
+45
+
+39%
+
+Revenue cycle management
+Clinical workflow optimization
+
+Data platforms and interoperability
+
+Academic
+medical
+center
+
+8
+
+24
+21
+
+Third priority
+
+Source: Bain-KLAS 2023 Provider Executive Survey (n=201)
+
+Revenue cycle management. RCM creates value by enhancing collections and streamlining laborintensive processes, thus generating an ROI for providers. No wonder that providers cite RCM as
+a top priority, anticipating higher spending for software across a broad set of subsegments including
+revenue integrity, charge capture, and complex claims management. Select activity in 2023—
+including TA Associates’ investment in Alpha II and Alpine’s acquisition of Medusind—
+demonstrated private equity (PE) investors’ interest in this space.
+Clinical workflow optimization. Providers are leaning on tools that improve workflow efficiency,
+such as LeanTaaS’s expanded offerings with the AI tool iQueue Autopilot, or that enhance remote
+patient monitoring—as in the case of the merger between LAMF, a special purpose acquisition
+company, with Nuvo, a digital pregnancy care solution. Solutions that save clinicians time while
+improving patient outcomes present valuable opportunities.
+Patient engagement. Academic medical centers and health systems are focusing on enhancing
+patient engagement as well as using data platforms to further address value-based care and data
+monetization. Importantly, the benefits of improved patient engagement extend beyond providerpatient relationships into clinical trial applications, improving retention and compliance and
+ultimately ensuring respect of trial timeline and better outcomes.
+
+20
+
+Global Healthcare Private Equity Report 2024
+
+Biopharma and payers taking the next steps on HCIT
+The role of HCIT in achieving efficiencies for providers is well known, but HCIT offers multiple
+benefits to biopharma and payers, too.
+Biopharma HCIT continues to focus on the role of clinical trial enablement and digitalization in
+the wake of regulatory changes. Given rising R&D costs, biopharma companies look for solutions
+that cut costs. As a result, some large e-clinical platforms could be interesting near-term targets.
+In addition to e-clinical platforms, biopharma HCIT has opportunity to capitalize on real-world
+evidence (RWE) and real-world data (RWD) trends. RWE and RWD have grown more popular in
+recent years, as pharmaceutical companies become more sophisticated in analyzing data across
+clinical and commercial use cases. Thermo Fisher’s acquisition of CorEvitas and the announcement
+of CMS to require patient registry enrollment to access Alzheimer’s drugs under Medicare coverage
+are examples of how critical real-world evidence and data will continue to be in the future.
+Payers, meanwhile, have aimed their investments at technology that affects member engagement,
+ranging from performance and quality to value-based care, including enablement such as care
+coordination and patient engagement/navigation. The merger of HealthComp, a benefits and
+analytics platform, with Virgin Pulse, a health and wellness company, exemplifies how payers
+are integrating with patient platforms to drive care outcomes. Other pressing issues include risk
+adjustment to payment integrity. Payers continue to look for ways to optimize these paymentrelated functions, which directly affect their bottom line.
+
+Three themes to guide new investments
+Investors should keep three themes in mind when evaluating HCIT opportunities.
+•
+
+Role of large tech companies and generative AI. Large, generalist technology companies
+such as Amazon, Microsoft, and Google are expanding into HCIT, either through core services
+such as Amazon Web Services and Microsoft’s Azure cloud computing platforms, or via AI
+capabilities such as Microsoft partnering with health systems to use Azure OpenAI. Historically,
+large tech companies lagged HCIT-focused firms due to lack of customization around healthcare
+workflows, but some of their recent investments are targeting healthcare. Consequently,
+more than half of the providers responding in a recent Bain-KLAS survey said they expect
+to accelerate IT spending with large tech firms, a 12-percentage point increase from the prior
+year. The exposure level presented by large tech players varies by HCIT subsegment.
+
+21
+
+Global Healthcare Private Equity Report 2024
+
+HCIT businesses use generative AI as a tool to develop new products or improve existing
+ones, although many of the applications remain in a nascent stage. That said, certain trends
+have emerged. Among providers, for example, generative AI is helping to increase efficiency
+and improve workflows, particularly when built into RCM solutions. And while just 6%
+of health systems have a generative AI strategy today, about 50% are developing one or
+are planning to. In biopharmaceuticals, generative AI is supporting and accelerating drugdevelopment workflows and enhancing commercialization capabilities (see “Generative
+AI Will Transform Healthcare”).
+•
+
+Platforms’ role in integrating IT solutions. From provider to biopharma, organizations are
+looking to maximize software integration, optimize vendor management, simplify their tech
+stack, and enhance interoperability (see Figure 4). Tighter integration remains a key purchasing
+criterion for companies evaluating IT solutions. Consequently, Epic is taking a greater share
+of the hospital and health system space (more than 60% of US hospital market share by net
+patient revenue), given its expanding network effects. Investors should carefully consider
+Epic’s offerings and development roadmap, as Bain-KLAS research shows that most providers
+prefer native electronic health record (EHR) offerings.
+In the biopharma e-clinical space, many companies are trying to reorganize their tech stack
+and provide a simpler access point for patients and clinicians. As a result, hub offerings such
+as Veeva and Medidata that connect multiple stakeholders, digitize, and streamline steps
+in the clinical trial and patient engagement/communication value chains will continue to play
+a critical role. Biopharma companies are striking a fine balance between platforms and point
+solutions, optimizing for the need of interconnectivity and decision-makers’ and users’ desire
+to seek best-of-breed tools.
+
+•
+
+Investors’ integrated due diligence and post-acquisition playbook. As the market becomes
+more competitive and risks evolve, integrated due diligence and post-acquisition playbooks
+become critical for assessing and underwriting sources of value and winning deals. HCIT due
+diligences have evolved from pure penetration and attach-rate analysis, toward integrating
+commercial excellence, pricing, R&D optimization, product functionality assessment, techstack fit for purpose, engineering team’s ability to innovate, cybersecurity gaps, and other
+operational and tech levers. Moreover, as HCIT platforms grow and offer less opportunity
+for bolt-on acquisitions, the role of M&A becomes more nuanced as there will be fewer
+transactions capable of meaningfully moving the needle.
+
+22
+
+Global Healthcare Private Equity Report 2024
+
+Figure 4: Providers confront cost and interoperability issues
+Percentage of providers citing their organization will …
+(next 12 months)
+81%
+
+64%
+
+67%
+
+…streamline tech stack
+
+79%
+73%
+
+72%
+
+…prioritize existing vendors
+2022
+
+…look to EHR vendor first
+
+2023
+
+Source: Bain-KLAS 2023 Provider Executive Survey (n=201)
+
+The competitive landscape for PE firms
+Healthcare PE investors face increased competition from specialized, tech-focused PE firms
+such as Vista Equity Partners, Francisco Partners, and Thoma Bravo that are aggressively pursuing
+healthcare with their software expertise, as well as increasing interest from strategics such as
+Thermo Fisher. On the other hand, this increased competition also creates attractive exit pathways
+for PE investors. Questions remain around which segments of the market may be played out, what
+the next tech trend is, and how to manage risk: Is specialty HCIT insulated from Epic? What valuebased care technologies are scalable? What pharma IT solutions can become platforms?
+Given the speed at which HCIT is evolving, and the presence of new competitors, the importance
+of a clear fund strategy, integrated diligence, and ability to underwrite post-acquisition value
+creation levers will be ever more important in the near future.
+
+23
+
+Life Sciences: Navigating Shifts
+in the Innovation, Regulatory,
+and Operational Terrains
+Private equity funds must be nimble given the effects of new therapies
+and sweeping Medicare drug negotiation provisions.
+By Matt Sullivan, Nirad Jain, Kara Murphy, Dmitry Podpolny, Franz-Robert Klingan,
+Vikram Kapur, and Alex Boulton
+
+At a Glance
+Although the life sciences sector continues to attract buyout activity, private equity
+deal value in 2023 struggled to match the levels of 2022.
+While the biotech funding slowdown is still a hurdle, investors began displaying more
+comfort putting money to work in early-stage therapies and precommercial medical devices.
+The ripple effects of the Inflation Reduction Act’s drug negotiation provisions, coupled
+with greater investment in cell, gene, and RNA therapies, will have broad implications
+for services providers.
+Demand for glucagon-like peptide-1 agonists (GLP-1s)—such as Wegovy, Ozempic,
+Mounjaro, and Zepbound—is boosting the need for ingredients or services that support
+GLP-1 manufacture.
+
+24
+
+Global Healthcare Private Equity Report 2024
+
+The life sciences sector has assumed a growing importance to private equity (PE) funds as investors
+look for innovative, recession-resistant businesses. From 2018 through 2022, PE investments into
+the biopharma, life-sciences tools, and diagnostics sectors surged, with approximately 650 buyout
+deals consummated globally. Pharma services—including contract research organizations (CROs)
+and contract development manufacturing organizations (CDMOs)—continued to be an active
+vertical within life sciences, with deal value above 2022 levels. However, in the face of economic
+uncertainty and continued high interest rates, overall life sciences deal value in 2023 struggled to
+maintain last year’s pace (see Figure 1). That said, continued success will require expertise on the
+part of funds, including operational and commercial excellence, in addition to scientific proficiency.
+
+Pharma services—including contract research organizations
+(CROs) and contract development manufacturing organizations
+(CDMOs)—continued to be an active vertical within life sciences.
+
+Figure 1: Life sciences deal value struggled in 2023 to match the levels of 2022
+Global biopharma and life sciences buyout deal value,
+$ billions (excluding add-on deals)
+
+Global biopharma and life sciences buyout
+deal count (excluding add-on deals)
+44
+
+45
+
+200
+43
+30
+
+20
+12
+$3
+
+4
+
+7
+
+8
+
+2010
+
+11
+
+12
+
+13
+
+20
+
+100
+
+23
+
+12
+
+50
+
+8
+
+14
+
+Biopharma and related services
+
+15
+
+16
+
+150
+
+17
+
+18
+
+19
+
+Life sciences tools and related services
+
+20
+
+21
+
+Dec 2023 forecast
+
+22
+
+23E
+
+0
+
+Deal count
+
+Notes: Excludes spin-offs, add-ons, loan-to-own transactions, special purpose acquisitions, and acquisitions of bankrupt assets; based on announcement date;
+includes announced deals that are completed or pending, with data subject to change; deal value does not account for deals with undisclosed values; values updated
+based on Dealogic 2020 sponsor classifications; values include net debt where relevant; 2023E annualized assuming the average ratio of January–November to
+December from 2019 to 2022, based on data through November 30, 2023
+Sources: Dealogic; AVCJ; Bain analysis
+
+25
+
+Global Healthcare Private Equity Report 2024
+
+Four themes shaping life sciences investments
+Four key forces are shaping the life sciences investment landscape and innovation:
+•
+
+the rise of the class of medications known as glucagon-like peptide-1 agonists (GLP-1s);
+
+•
+
+the Inflation Reduction Act’s (IRA) drug negotiation provisions and its ripple effects;
+
+•
+
+increased investment in advanced modalities such as cell, gene, and RNA therapies
+and the implications for services providers; and
+
+•
+
+growing private equity interest in making investments in early-stage therapies
+and precommercial medical devices.
+
+Coupled with those forces, the rise of artificial intelligence (AI) and its ability to accelerate product
+development and commercialization will continue to transform life sciences (see “Generative AI
+Will Transform Healthcare” and “Healthcare IT Hits a Speed Bump”).
+
+The promise and potential of GLP-1s
+Over the past year, sales in the GLP-1 class of medications surged. Indeed, sales of Novo Nordisk’s
+semaglutide—marketed under the brand names of obesity drug Wegovy and diabetes drug
+Ozempic—and Eli Lilly’s tirzepatide—sold under the brand names of Mounjaro for diabetes and
+Zepbound for obesity—have been limited only by the ability of manufacturers to produce them.
+Initially used to treat Type 2 diabetes, the ability of semaglutide and tirzepatide to reduce weight
+and evidence of their positive effect on cardiovascular and renal health have increased the appetite
+for GLP-1s among prescribers and patients.
+Given the potential market for these drugs, three implications confront PE investors:
+•
+
+Demand for inputs or services supporting the manufacturing of GLP-1 therapies will likely
+increase. Firms that supply these goods—such as contract development and manufacturing
+organizations (CDMOs) focused on peptides and biologics and manufacturers of delivery device
+components such as autoinjectors—are poised to benefit from the growing demand and current
+supply constraints.
+
+•
+
+An expanded ecosystem to support patients will be needed, including services to identify,
+qualify, and enroll eligible patients, as well as physical or digital health platforms to support
+patients on these therapies.
+
+•
+
+Finally, investments with business models based on high rates of obesity could see their longterm growth projections decline. Given the novelty of GLP-1s, their ultimate effect for now is
+unclear. Still, investors should evaluate the implications for returns under a scenario in which
+obesity rates decrease materially.
+
+26
+
+Global Healthcare Private Equity Report 2024
+
+Ripple effects of the Inflation Reduction Act have begun
+The direct drug price negotiation provisions of the IRA could affect global biopharmaceutical
+companies profoundly given the outsize contribution of the US market to biopharma revenues and
+profits. The first round of products subject to negotiation has now been announced, and by early
+2024 pharmaceutical companies will have a clearer idea of the negotiated maximum fair prices that
+go into effect in 2026 to participate in Medicare. PE investments in the biopharmaceutical sector
+have tended to focus on derivative plays such as services and supporting IT, and the impacts of drug
+negotiations look to be nuanced for investors.
+For example, biopharmaceutical companies are expected to focus even more on biological
+molecules such as antibodies, given the longer period between FDA approval and price negotiation
+the IRA provides (13 years for biologics vs. 9 years for small molecules). Biopharmaceutical
+companies will seek to be strategic, conducting multiple drug trials for the same molecule
+in concert so as to maximize its use and application. For example, a molecule with the opportunity
+to be used in psoriasis and rheumatoid arthritis may undergo trials on both simultaneously
+so that in the event that the drug is approved for both conditions, the pharmaceutical company
+can get the most out of its time window before Medicare negotiations.
+Understandably, this is the domain of the biopharmaceutical giants that have the financial and
+commercial wherewithal to coordinate multiple trials simultaneously and scale up manufacturing
+quickly. In that case, more biologic assets may change hands during development, from smaller
+biotech companies to biopharma giants. Indeed, there may be increased appetite among firms
+of any size to partner with capital providers to support the development of promising molecules.
+This effect, in turn, would be expected to flow through into supporting infrastructure, such
+as contract development and manufacturing organizations (CDMOs) (see Figure 2).
+
+The direct drug price negotiation provisions of the IRA could
+affect global biopharmaceutical companies profoundly given
+the outsize contribution of the US market to biopharma revenues
+and profits.
+
+27
+
+Global Healthcare Private Equity Report 2024
+
+Figure 2: 2023 brought a larger share of deals in CROs, CMOs, and CDMOs than in previous years
+Deal count by subsector 2018–22
+
+100%
+
+Deal count by subsector 2023 to date
+
+Biosimilar
+Active pharmaceutical ingredients
+Generics
+
+Generics
+Animal
+HCIT
+Commercialization
+
+100%
+
+Other**
+
+Other*
+
+80
+60
+
+Over the counter
+HCIT
+Other
+Biotech
+
+40
+
+Other*
+
+80
+
+CROs/CMOs/
+CDMOs
+Research
+instruments
+
+CROs/CMOs/CDMOs
+
+Diagnostic
+
+Pharma
+
+IVD OEM
+
+Biocomposites
+Vaccines
+Biosimilar
+Education
+
+Other**
+Biotech
+
+60
+
+Pharma
+
+40
+
+20
+
+20
+
+0
+
+CROs/CMOs/CDMOs
+
+IVD OEM
+
+Research
+Instruments
+
+0
+Biopharma and related services
+
+Life sciences tools
+
+Notes: Excludes spin-offs, add-ons, loan-to-own transactions, special purpose acquisitions, and acquisitions of bankrupt assets; based on announcement date;
+includes announced deals that are completed or pending, with data subject to change; deal value does not account for deals with undisclosed values; values updated
+based on Dealogic 2020 sponsor classifications; values include net debt where relevant; IVD OEM is in vitro diagnostics original equipment manufacturers;
+Other* includes categories with fewer than 10 deals; Other** includes categories with fewer than 2 deals; 2023E annualized assuming the average ratio of
+January–November to December from 2019 to 2022, based on data through November 30, 2023
+Sources: Dealogic; AVCJ; Bain analysis
+
+Early innings of growth in advanced modalities
+Next-generation modality therapeutics such as cell therapies, gene therapies, mRNA and other RNA
+therapies, and antibody drug conjugates are riding a long-term growth trend. Growth has stemmed
+from leaps in fundamental research as well as regulatory and commercial dynamics such as the
+Inflation Reduction Act. Each modality has unique discovery, development, and manufacturing
+processes that require discrete inputs and services to support the advancement of products.
+Investment opportunities in this space are tricky to source and win given the requirement to find
+technical niches and invest ahead of the derisking of the modality. But for those prepared to
+compete here, the payoffs can be huge. This year, for example, ArchiMed and Warburg Pincus
+exited Polyplus in a sale to Sartorius Stedim Biotech for $2.6 billion.
+
+28
+
+Global Healthcare Private Equity Report 2024
+
+The disruption brought about by innovation in advanced modalities has led big pharmaceutical
+companies and small independent biotechs alike to turn to outsourced service providers
+to complement in-house investments—witness Bayer’s $250 million investment in a Parkinson’s
+Disease cell therapy manufacturing facility. In turn, investors have sought to invest in contract
+research organizations (CROs), contract manufacturing organizations (CMOs), and CDMOs with
+deep ties to pharma sponsors (see Figure 3). Two of the year’s three largest deals were contract
+organizations—the taking private of Syneos Health and the carve-out of Baxter BioPharma
+Solutions (now known as Simtra Biopharma Solutions). Investors had the strongest appetite
+for contract organizations with specialized capabilities and expertise, such as Simtra’s strength
+in sterile fill/finish, and smaller preclinical-focused CROs in Europe.
+
+Next-generation modality therapeutics such as cell therapies,
+gene therapies, mRNA and other RNA therapies, and antibody
+drug conjugates are riding a long-term growth trend.
+
+Figure 3: Outsourced services organizations have become more attractive
+Announced global healthcare CRO, CMO,
+and CDMO buyout deal value, $ billions
+(excluding add-on deals)
+
+Announced global healthcare CRO,
+CMO, and CDMO buyout deal count
+(excluding add-on deals)
+50
+17
+40
+14
+
+12
+8
+
+11
+
+30
+
+6
+
+20
+
+4
+$2
+
+2
+
+10
+
+1
+0.3
+
+2013
+
+14
+
+15
+
+North America
+
+16
+Europe
+
+17
+Asia-Pacific
+
+18
+
+19
+
+Rest of world
+
+20
+
+21
+
+Dec 2023 forecast
+
+22
+
+23E
+
+0
+
+Total deal count
+
+Notes: Excludes spin-offs, add-ons, loan-to-own transactions, special purpose acquisitions, and acquisitions of bankrupt assets; based on announcement date;
+includes announced deals that are completed or pending, with data subject to change; deal value does not account for deals with undisclosed values; values updated
+based on Dealogic 2020 sponsor classifications; values include net debt where relevant; includes only deals in the life sciences tools and biopharma sectors;
+2023E annualized assuming the average ratio of January–November to December from 2019 to 2022, based on data through November 30, 2023
+Sources: Dealogic; AVCJ; Bain analysis
+
+29
+
+Global Healthcare Private Equity Report 2024
+
+PE interest in early-stage therapies and precommercial devices has grown
+Historically, activity involving early-stage therapies and precommercial medical devices has
+been uncommon given the event-driven nature of these investments. But the evolving macro
+environment and deal market is making some investors increasingly comfortable with evaluating
+and underwriting such investments. For example, in November TPG led an $85 million series B
+investment into MBrace Therapeutics, a preclinical antibody-drug conjugate player, via the TPG
+Life Sciences Innovations Fund (TPG LSI) and The Rise Fund.
+Competition with strategics for these assets raises the bar for technical and operations due diligence
+on the part of private equity. Additionally, it’s essential to assess value creation opportunities during
+due diligence to determine whether private equity ownership offers greater growth potential than
+strategic ownership. To do this, private investors are building expertise in many ways including
+upskilling technical investment teams, acquiring smaller life sciences-focused funds (such as
+Carlyle’s acquisition of Abingworth in 2022), raising life sciences-focused investment vehicles,
+and partnering more closely with professional services firms and operating experts.
+
+Investors look past the sound and the fury
+Looking ahead, life sciences innovation appears to be robust and well positioned to deliver
+pioneering products that solve long-standing health needs and generate economic and societal
+value. While the biotech sector ran into difficulties with fund-raising in 2023, investors appear
+to be looking past the short-term noise and are prepared to invest in promising life science
+innovations and in the services, products, and IT solutions to support those advances.
+As a result, this domain has the potential to create attractive returns for their limited partners
+while improving patient outcomes.
+
+While the biotech sector ran into difficulties with fund-raising
+in 2023, investors appear to be looking past the short-term
+noise and are prepared to invest in promising life science
+innovations and in the services, products, and IT solutions
+to support those advances.
+
+30
+
+India’s Healthcare Industry
+Comes of Age
+Economic, regulatory, and demand factors converge to create a new
+investing hub in Asia-Pacific.
+By Homer Paneri, Vikram Kapur, Nirad Jain, Kara Murphy, Dmitry Podpolny, Franz-Robert Klingan,
+and Alex Boulton
+
+At a Glance
+Private equity deal volume in Asia-Pacific remained robust in 2023, bucking the slowdown
+seen in North America.
+Investors are looking to diversify their geographic presence within Asia-Pacific, which is now
+experiencing multiple engines of growth.
+India’s economic growth, business-friendly government, pharmaceuticals manufacturing
+landscape, and thriving middle class are driving investment.
+Spending on private healthcare, growing pharma manufacturing and services, and an evolving
+healthcare technology ecosystem are turning India into a private equity hub.
+
+Healthcare markets in the Asia-Pacific region are maturing—and in parallel, private equity (PE)
+deal volume is bucking the slowdown seen in North America (see Figure 1). Asia-Pacific’s share
+of global healthcare PE deals continues to rise, growing from 26% of global deal activity in 2022
+to a projected 34% in 2023.
+
+31
+
+Global Healthcare Private Equity Report 2024
+
+Figure 1: Asia-Pacific bucked the deal slowdown found in North America in 2023
+Global healthcare buyout deal volume
+(excluding add-on deals)
+515
+
+380
+316
+
+353
+
+313
+
+26%
+
+265
+195
+
+209
+
+188
+
+199
+
+206
+
+26%
+
+47%
+2012
+
+13
+
+14
+
+15
+
+North America
+
+16
+Europe
+
+17
+
+18
+
+Asia-Pacific
+
+19
+Rest of world
+
+20
+
+21
+
+22
+
+383
+
+34%*
+28%*
+35%*
+23E
+
+Dec 2023 forecast
+
+Notes: Excludes spin-offs, add-ons, loan-to-own transactions, special purpose acquisitions, and acquisitions of bankrupt assets; based on announcement date;
+includes announced deals that are completed or pending, with data subject to change; deal value does not account for deals with undisclosed values; values updated
+based on Dealogic 2020 sponsor classifications; values include net debt where relevant; 2023E annualized assuming the average ratio of January–November to
+December from 2019 to 2022, based on data through November 30, 2023; *percentages reflect the year-to-date share of volume by region
+Sources: Dealogic; AVCJ; Bain analysis
+
+The Asia-Pacific region has seen intensified deal activity outside of China—historically the main
+engine of transactions in the area—and is being transformed into a region with multiple engines
+of growth. Buyouts increasingly occurred across the geography, from the high-income economies
+like Australia and South Korea to budding middle-income nations such as India. About two-thirds
+of the deals in India were executed by funds with less than $50 billion in assets under management
+(AUM), illustrating the wealth of activity outside of megacap funds.
+In China, many investors have stayed on the sidelines as the country navigates an evolving
+healthcare policy, Covid’s impact on public budgets, and a softening economy. Nonetheless,
+Chinese activity has begun to rebound, rising from 21 deals in 2022 for a total of $1.6 billion in value,
+to a projected 58 deals in 2023, reaching around $3.4 billion in value (see Figure 2). Overall, AsiaPacific buyout activity declined, from $17.1 billion in 2022 to $14.2 billion in 2023, though it held
+up well compared with other regions.
+
+32
+
+Global Healthcare Private Equity Report 2024
+
+Figure 2: China’s rebound in deal volume during 2023 largely accounts for the overall rise in volume
+in Asia-Pacific
+Asia-Pacific healthcare buyout deal volume
+excluding China (excluding add-on deals)
+India
+
+Australia/New Zealand
+
+Japan
+
+SE Asia
+
+Other
+
+58
+
+China healthcare buyout deal volume
+(excluding add-on deals)
+
+Dec 2023 forecast
+
+61
+
+71
+
+118
+
+Dec 2023 forecast
+
+South Korea
+
+98
+
+70
+58
+
+39
+29
+
+Annual
+change
+
+2019
+
+20
+
+21
+
+22
+
+23E
+
+▼9%
+
+▲49%
+
+▲5%
+
+▲16%
+
+▼1%
+
+Annual
+change
+
+21
+
+2019
+
+20
+
+21
+
+22
+
+23E
+
+▼36%
+
+▲238%
+
+▲20%
+
+▼82%
+
+▲177%
+
+Notes: Excludes spin-offs, add-ons, loan-to-own transactions, special purpose acquisitions, and acquisitions of bankrupt assets; based on announcement date;
+includes announced deals that are completed or pending, with data subject to change; deal value does not account for deals with undisclosed values; values updated
+based on Dealogic 2020 sponsor classifications; values include net debt where relevant; 2023E annualized assuming the average ratio of January–November to
+December from 2019 to 2022, based on data through November 30, 2023
+Sources: Dealogic; AVCJ; Bain analysis
+
+Many biopharma and medtech companies have shifted toward a “China plus one” strategy:
+diversifying beyond China and creating opportunity for input and final product manufacturers
+in countries with deep talent pools, low labor costs, and business-friendly environments. Moreover,
+private spending on healthcare is on the rise across Asia-Pacific, as economic growth lifts millions
+of people into the middle class and health takes on new importance in the wake of the pandemic.
+India stands out as the main force expanding Asia-Pacific’s share of global deal activity, accounting
+for roughly 30% of the region’s deal value from 2022 to 2023 (see Figure 3). Resilient economic
+growth, a business-friendly government, a maturing pharmaceutical manufacturing landscape,
+and a burgeoning middle class eager to pay for quality healthcare have resulted in many investment
+opportunities. In 2023, India is expected to host 22 healthcare deals, a slight decline from the 26
+in 2022. Deal value is expected to come in at $4.6 billion in 2023, just below the $4.7 billion in 2022,
+with India remaining the leader in deal value across the region.
+
+33
+
+Global Healthcare Private Equity Report 2024
+
+Figure 3: India leads the Asia-Pacific region in deal value
+Asia-Pacific healthcare buyout deal value, $ billions
+(excluding add-on deals)
+100%
+
+$11.5
+
+16.9
+
+17.8
+
+80
+60
+
+3.8
+
+2.9
+
+2.8
+
+2.3
+
+1.6
+
+Other
+SE Asia
+
+4.6
+
+Japan
+
+3.4
+
+India
+
+South Korea
+Australia/New Zealand
+
+4.7
+
+20
+
+Annual
+change
+
+14.2
+
+3.6
+
+40
+
+0
+
+17.1
+
+2019
+
+20
+
+21
+
+22
+
+23E
+
+▼27%
+
+▲48%
+
+▲5%
+
+▼4%
+
+▼17%
+
+China
+
+Notes: Excludes spin-offs, add-ons, loan-to-own transactions, special purpose acquisitions, and acquisitions of bankrupt assets. Based on announcement date;
+includes announced deals that are completed or pending, with data subject to change; deal value does not account for deals with undisclosed values; values updated
+based on Dealogic 2020 sponsor classifications; values include net debt where relevant; 2023E annualized assuming the average ratio of January–November to
+December from 2019 to 2022, based on data through November 30, 2023
+Sources: Dealogic; AVCJ; Bain analysis
+
+Importantly, exits for investors in India have been strong, validating the country’s significant upside
+potential. Deal selection was still critical to generate returns during this period, as demonstrated
+by notable exits such as TPG’s 2023 sale of a controlling stake in Care Hospitals to Blackstone.
+Global PE investors have grown more comfortable putting larger amounts of capital to work in
+India, making the market more competitive. Moreover, more transactions are becoming controlling
+deals, as the perceived risk of making large investments in India diminishes—including for owners,
+who are often founders of the healthcare asset, and who are becoming more comfortable handing
+over the reins to investors.
+
+Three forces behind India’s rise
+India’s rise as a new hub of healthcare PE deal activity stems from three factors: greater expenditure
+on private and public healthcare, booming pharma manufacturing and services, and an evolving
+healthcare technology ecosystem.
+
+34
+
+Global Healthcare Private Equity Report 2024
+
+Spending on private and public healthcare: India’s fast-growing middle class is spending
+more on healthcare. With disposable incomes rising and an explosion of insurance technology
+(insurtech) platforms and private payers (such as Digit and Acko), private healthcare has become
+more accessible. Moreover, Covid served to reset consumers’ attitudes about their own spending
+on healthcare, as a large share of the population personally witnessed Covid-related tragedies,
+shoring up the importance of health in their minds. Meanwhile, government health expenditures
+have risen significantly over the past decade (from around 29% of total health expenditure in 2014–
+15 to approximately 39% in 2021–22—S&P Global data), and healthcare spending is expected to grow
+further (see Figure 4).
+Demand for high-quality healthcare has been met with supply as more investors enter the market.
+Multi-specialty hospitals have seen a flurry of activity over the past decade, including deals in 2023,
+such as Temasek’s acquisition of an additional 41% of Manipal Health Enterprises (bringing its
+ownership to 59%) for around $2 billion, and Blackstone’s acquiring a controlling stake in Care
+Hospitals for some $800 million from TPG. More recently, single-speciality clinics have seen a surge
+in activity, most notably with BPEA EQT’s acquisition of a controlling stake in Indira IVF, an in vitro
+fertilization clinic chain, valued at $1.1 billion.
+
+Figure 4: Private and public spending on healthcare have been rising in India
+Health spending in India, $ billions
+
+Average household income in India, $ thousands
+10
+
+Average
+household
+income
+
+106
+
+108
+
+119
+
+89
+
+$77
+
+79
+
+82
+
+86
+
+87
+
+87
+
+84
+
+2013
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+Household income
+
+▲4%
+
+▲3%
+
+▲4%
+
+▲12%
+
+▲3%
+
+▲6%
+
+▼16%
+
+▲14%
+
+▲8%
+
+▲3%
+
+Private spending
+
+▲2%
+
+▲0%
+
+▲2%
+
+▼12%
+
+▲1%
+
+▲7%
+
+▲3%
+
+▲17%
+
+▼4%
+
+▲16%
+
+Government spending
+
+▲4%
+
+▲13%
+
+▲11%
+
+▲27%
+
+▲0%
+
+▼20%
+
+▲13%
+
+▲22%
+
+▲11%
+
+▲3%
+
+5
+
+Private
+spending
+Government
+spending
+
+0
+
+Annual change
+
+Sources: S&P Household Income Projections; Fitch Solutions Health Expenditure
+
+35
+
+Global Healthcare Private Equity Report 2024
+
+Booming pharma manufacturing and services: India’s stature in small molecule manufacturing
+has risen. Supportive government policy (including the Production Linkage Incentive program),
+a vast pool of chemistry and engineering talent, a strengthening pharma ecosystem, and a push
+to diversify supply chains from China have propelled India’s rise to a top-3 global manufacturer
+of pharmaceuticals by volume, and the top global generics manufacturer. Covid further boosted
+India to the top position in vaccine manufacturing, supplying 50% of global vaccine demand.
+For PE investors, India’s emergence as a leading pharma hub has created an opportunity in pharma
+services, especially manufacturing services, such as contract development and manufacturing
+organizations (CDMOs) and active pharmaceutical ingredient (API) producers. Global PE funds—
+including Advent International under its Cohance Lifesciences brand, Carlyle via drugmaker
+Viyash, and PAG via Sekhmet Pharmaventures—continued to grow their API/CDMO platforms
+started in 2021–22 with a number of add-ons.
+While small molecules have been the focus to date, there are early signs that large molecules,
+especially biologics, may be the next frontier as many such therapies start to go off patent, creating
+opportunity for generics. But China may have the leg up in generics, given its deeper talent pools
+in key areas of expertise such as microbiology.
+Evolving healthcare technology ecosystem: India has historically served as the back end for
+many US- and Europe-focused healthcare data and analytics companies, such as revenue cycle
+outsourcers. However, in recent years, digital health companies serving the Indian market
+directly—especially in fitness and wellness, such as HealthifyMe, telemedicine, such as Mfine,
+and insurtech, including Turtlemint and Even—have seen brisk activity. While dealmaking
+in digital health has slowed, long-term fundamentals, notably a young population eager
+to engage digitally, remain strong for Indian companies operating at the intersection
+of healthcare and technology.
+
+Investors vie over opportunities
+India’s share of global deal activity remains on an upward trajectory. Private providers
+(both multispecialty and single specialty) present significant long-term opportunity, given
+the fragmentation and underpenetration in healthcare currently. Investors that can scale up
+to deliver high-quality care that meets the surging demand in the Indian market have the potential
+to replicate the generous returns seen in recent years. Similarly, pharma manufacturing will
+continue to present opportunity for private equity, given the sector’s fragmentation, supportive
+government policies, and potential in biologics and generics.
+The past few years have proved that the risk-return profile of investing in healthcare in India
+is very favorable: For relatively small incremental risk above higher-income markets, the
+potential for strong return is significant.
+
+36
+
+Global Healthcare Private Equity Report 2024
+
+Key contacts in Bain’s Healthcare Private Equity team
+Healthcare Private Equity team leaders
+Nirad Jain in New York (Nirad.Jain@bain.com)
+Kara Murphy in Boston (Kara.Murphy@bain.com)
+Franz-Robert Klingan in Munich (Franz-Robert.Klingan@bain.com)
+Dmitry Podpolny in London (Dmitry.Podpolny@bain.com)
+Alex Boulton in Singapore (Alex.Boulton@bain.com)
+Vikram Kapur in Singapore (Vikram.Kapur@bain.com)
+
+Healthcare and Life Sciences practice leaders
+Tim van Biesen in New York (Tim.vanBiesen@Bain.com)
+Vikram Kapur in Singapore (Vikram.Kapur@bain.com)
+Loïc Plantevin in Paris (Loic.Plantevin@bain.com)
+Joshua Weisbrod in New York (Joshua.Weisbrod@bain.com)
+
+Healthcare Private Equity team members
+Ishaan Anand in San Francisco (Ishaan.Anand@Bain.com)
+Maria Arnaoudona in New York (Maria.Arnaoudona@bain.com)
+Roch Baranowski in Warsaw (Roch.Baranowski@bain.com)
+Slavena Bardarova in London (Slavena.Bardarova@bain.com)
+Jon Barfield in New York (Jon.Barfield@bain.com)
+Alan Barnes in New York (Alan.Barnes@Bain.com)
+Eric Berger in Boston (Eric.Berger@bain.com)
+Patrick Biecheler in Paris (Patrick.Biecheler@bain.com)
+Pierre-Antoine Bodin in Paris (Pierre-Antoine.Bodin@bain.com)
+Michael Brookshire in Dallas (Michael.Brookshire@bain.com)
+Kevin Chang in Hong Kong (Kevin.Chang@bain.com)
+James Cleary in Boston (James.Cleary@bain.com)
+Benjamin Cooke in San Francisco (Benjamin.Cooke@bain.com)
+Cira Cuberes in Madrid (Cira.Cuberes@bain.com)
+Evan Dadosky in Chicago (Evan.Dadosky@Bain.com)
+Valerio Di Filippo in Rome (Valerio.DiFilippo@bain.com)
+Justin Doshi in Atlanta (Justin.Doshi@bain.com)
+Caitlin Dowling in New York (Caitlin.Dowling@bain.com)
+Jason Evers in Chicago (Jason.Evers@bain.com)
+Aaron Feinberg in New York (Aaron.Feinberg@bain.com)
+Lorenzo Ferroni in Rome (Lorenzo.Ferroni@bain.com)
+
+38
+
+Global Healthcare Private Equity Report 2024
+
+Sharon Fry in New York (Sharon.Fry@bain.com)
+Parijat Ghosh in New Delhi (Parijat.Ghosh@bain.com)
+Kai Grass in Düsseldorf (Kai.Grass@bain.com)
+Justas Grigalauskas in London (Justas.Grigalauskas@bain.com)
+Jeff Haxer in Chicago (Jeff.Haxer@bain.com)
+Sarah Hershey in Boston (Sarah.Hershey@bain.com)
+Junya Ishikawa in Tokyo (Junya.Ishikawa@bain.com)
+Sarwar Islam in London (Sarwar.Islam@bain.com)
+Todd Johnson in New York (Todd.Johnson@bain.com)
+Kalyan Jonnalagadda in New York (Kalyan.Jonnalagadda@bain.com)
+Laila Kassis in Boston (Laila.Kassis@bain.com)
+Tom Kidd in Singapore (Tom.Kidd@bain.com)
+Fabio La Mola in Singapore (Fabio.LaMola@bain.com)
+Christian Langel in Zurich (Christian.Langel@bain.com)
+Jeremy Martin in Atlanta (Jeremy.Martin@bain.com)
+Lachlan McMurdo in Melbourne (Lachlan.McMurdo@bain.com)
+Dieter Meyer in Zurich (Dieter.Meyer@bain.com)
+Giovanni Battista Miani in London (GiovanniBattista.Miani@bain.com)
+Alexander Mitscherlich in Munich (Alexander.Mitscherlich@bain.com)
+Kenji Mitsui in Tokyo (Kenji.Mitsui@Bain.com)
+Erin Ney in Boston (Erin.Ney@bain.com)
+Dave Nierenberg in Boston (Dave.Nierenberg@bain.com)
+Homer Paneri in Mumbai (Homer.Paneri@bain.com)
+Christoffer Precht in Stockholm (Christoffer.Precht@bain.com)
+Anshul Rana in Boston (Anshul.Rana@Bain.com)
+Derek Riesenberg in Boston (Derek.Riesenberg@bain.com)
+Arathi Sasidharan in Singapore (Arathi.Sasidharan@bain.com)
+Christoph Schlegel in Frankfurt (Christoph.Schlegel@bain.com)
+Ben Siegal in Boston (Ben.Siegal@bain.com)
+Jason Slocum in Boston (Jason.Slocum@bain.com)
+Quinn Solomon in San Francisco (Quinn.Solomon@bain.com)
+Monika Sood in New Delhi (Monika.Sood@Bain.com)
+Dale Stafford in Washington, DC (Dale.Stafford@bain.com)
+Dhruv Sukhrani in Dubai (Dhruv.Sukhrani@Bain.com)
+Matt Sullivan in San Francisco (Matt.Sullivan@bain.com)
+Simon Sun in Shanghai (Simon.Sun@bain.com)
+Mike Vandenberg in Denver (Michael.Vandenberg@Bain.com)
+Daphné Vattier in Paris (Daphne.Vattier@bain.com)
+Jim Verbeeten in Tokyo (Jim.Verbeeten@Bain.com)
+James Viles in Sydney (James.Viles@bain.com)
+Jon Webber in Atlanta (Jon.Webber@bain.com)
+
+39
+
+Global Healthcare Private Equity Report 2024
+
+Eli Weinberg in New York (Eli.Weinberg@bain.com)
+Jeff Woods in Boston (Jeff.Woods@bain.com)
+Grace Wynn in Boston (Grace.Wynn@bain.com)
+Sarah Yanes in New York (Sarah.Yanes@bain.com)
+Sungwon Yoon in Seoul (Sungwon.Yoon@bain.com)
+
+40
+
+Bold ideas. Bold teams. Extraordinary results.
+Bain & Company is a global consultancy that helps the world’s most
+ambitious change makers define the future.
+Across 65 cities in 40 countries, we work alongside our clients as one team with a shared ambition to
+achieve extraordinary results, outperform the competition, and redefine industries. We complement
+our tailored, integrated expertise with a vibrant ecosystem of digital innovators to deliver better, faster,
+and more enduring outcomes. Our 10-year commitment to invest more than $1 billion in pro bono
+services brings our talent, expertise, and insight to organizations tackling today’s urgent challenges
+in education, racial equity, social justice, economic development, and the environment. Since our
+founding in 1973, we have measured our success by the success of our clients, and we proudly maintain
+the highest level of client advocacy in the industry.
+
+For more information, visit www.bain.com
+
+
